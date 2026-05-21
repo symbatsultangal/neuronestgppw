@@ -1,10 +1,18 @@
-# NeuroNest 3D Prototype
+# NeuroNest Prototype
 
-This folder is reserved for the interactive 3D prototype of NeuroNest.
+Interactive website prototype for NeuroNest, a wearable sensory-regulation device concept for children with ASD and ADHD.
 
-No implementation has been scaffolded yet. Planning should start by reading:
+## Run Locally
 
-- `docs/project-context.md`
-- `../docs/superpowers/specs/2026-05-20-neuronest-3d-prototype-design.md`
+```bash
+npm install
+npm run dev
+```
 
-"# neuronestgppw" 
+Open the local Vite URL shown in the terminal.
+
+## Build
+
+```bash
+npm run build
+```
